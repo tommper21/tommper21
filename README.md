@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tom Perneczky
-- 👀 I’m interested in Mathematics in general and Data Science
-- 🌱 I’m currently learning Data Science with Python
-- 📫 Reach me via e-mail: tomperneczky@icloud.com
+- 👀 I’m interested in Mathematics and Design
+- 📫 Reach me via e-mail tomperneczky@icloud.com and add "GitHub: " in the subject line and I will respond within 24 hours
 - Personal Website:  [tommper21.github.io](https://tommper21.github.io/website2/)
 - YouTube Channel: [youtube.com/@tomperneczky](https://www.youtube.com/@tomperneczky)
 
